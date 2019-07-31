@@ -1,0 +1,26 @@
+.comment {
+  display: inline-block;
+  position: relative;
+}
+.comment-author {
+  position: absolute;
+  display: inline-block;
+  margin-top: 0;
+}
+
+.comment-author-photo {
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+}
+
+.comment-body {
+  display: inline-block;
+  font-size: 13px;
+  padding-left: 45px;
+  width: 100%;
+}
+
+.comment-author-username {
+  font-weight: bold;
+}

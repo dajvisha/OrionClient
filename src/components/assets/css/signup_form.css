@@ -1,0 +1,15 @@
+.login-form {
+  background-color: #fff;
+  margin: 50px;
+  padding: 35px;
+}
+
+.form-title {
+  text-align: center;
+  padding-bottom: 35px;
+}
+
+.form-actions {
+  text-align: center;
+  padding-top: 35px;
+}

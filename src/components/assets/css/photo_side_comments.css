@@ -1,0 +1,9 @@
+.photo-side-comments {
+  padding-top: 25px;
+  height: 350px;
+  overflow-y: auto;
+}
+
+.photo-side-comment {
+  padding-bottom: 20px;
+}

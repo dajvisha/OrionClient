@@ -1,0 +1,13 @@
+.detail-item {
+  font-size: 25px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  display: inline-block;
+}
+
+.detail-item .details-value {
+  font-size: 15px;
+  padding-left: 10px;
+  display: inline-block;
+  transform: translateY(-25%);
+}

@@ -1,0 +1,10 @@
+.photo-show-side { 
+  position: relative;
+  height: 100%;
+}
+
+.comment-box {
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+}
